@@ -1,0 +1,12 @@
+{
+  "name": "put-api-practice",
+  "version": "1.0.0",
+  "description": "11 Express.js PUT API practice questions with separate files",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
